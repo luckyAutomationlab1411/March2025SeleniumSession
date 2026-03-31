@@ -123,7 +123,6 @@ public class XpathConcept {
 		//--(//form//input[@id])[position()=3]
 		//--(//form//input[@id])[last()]
 		//--(//form//input[@id])[last()-1]
-		//--(//form//input[@id])[last()-1]
 		
 		
 		
